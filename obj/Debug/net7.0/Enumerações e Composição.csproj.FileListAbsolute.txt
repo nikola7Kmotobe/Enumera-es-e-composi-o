@@ -1,0 +1,14 @@
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\bin\Debug\net7.0\Enumerações e Composição.exe
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\bin\Debug\net7.0\Enumerações e Composição.deps.json
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\bin\Debug\net7.0\Enumerações e Composição.runtimeconfig.json
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\bin\Debug\net7.0\Enumerações e Composição.dll
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\bin\Debug\net7.0\Enumerações e Composição.pdb
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.GeneratedMSBuildEditorConfig.editorconfig
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.AssemblyInfoInputs.cache
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.AssemblyInfo.cs
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.csproj.CoreCompileInputs.cache
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.dll
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\refint\Enumerações e Composição.dll
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.pdb
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\Enumerações e Composição.genruntimeconfig.cache
+D:\pooCsharp\Enumerações e Composição\Enumerações e Composição\obj\Debug\net7.0\ref\Enumerações e Composição.dll
